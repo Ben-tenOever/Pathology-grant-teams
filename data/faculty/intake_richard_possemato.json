@@ -1,0 +1,23 @@
+{
+  "source": "intake_form",
+  "faculty_id": "intake_richard_possemato",
+  "name": "Richard Possemato",
+  "name_canonical": "Richard Possemato",
+  "title": "Associate Professor",
+  "affiliations": [
+    "Pathology"
+  ],
+  "affiliations_raw": "Pathology",
+  "affiliations_unmapped": [],
+  "lab_synopsis": "I am an Associate Professor in the Department of Pathology at NYU School of Medicine and Co-Leader of the Cancer Cell Biology Program at the Perlmutter Cancer Center. Our research program is focused on identifying metabolic alterations in cancer and the tumor microenvironment, focusing on triple-negative breast cancer and alterations in the metabolism of transformed and immune cells. My long-term goal is to understand the metabolic pathways that are altered in tumors, the processes that these altered pathways support, and the microenvironment, genetic, and epigenetic contexts in which these pathways are important. I have substantial experience and training in cancer genetics, tumor metabolism, and nutrient sensing pathways, and have authored manuscripts describing the contributions of mitochondrial metabolism, nucleotide synthesis, and iron-sulfur cluster biosynthesis to cancer and cell biology. A key to the success of this work has been generating new biological tools, enabling high-throughput screening in tumor-relevant environments and upon nutrient limitation. These projects provided me with experience mentoring graduate students and post-doctoral fellows who appear as co-authors on these publications, as well as collaborating with academic, industry, and clinical scientists. This work highlights our ability to establish a productive research program, producing impactful findings of importance to the tumor metabolism fields, and encouraging a collaborative and rigorous training program for the three graduate students and four post-doctoral fellows that comprise our group. I am pleased to support this R01 application to provide knowledge and experimental expertise on triple-negative breast cancer and metabolic alterations in normal and transformed cells.",
+  "common_experiments_raw": "Mammalian cell culture, immunoblotting, CRISPR screening, metabolomics, metabolic tracing, Seahorse, immunopurification, microscopy, RNAi, CRISPR gene knockout, mutagenesis screening, ferroptosis assays, cell death/viability assays, EC50, iron sensing analysis, iron-sulfur cluster function, gene expression analysis, xenograft tumor formation, cell proliferation assays.",
+  "research_keywords": [],
+  "experimental_capabilities": [],
+  "model_systems": [],
+  "focus_groups": [],
+  "publications": [],
+  "id": "intake_richard_possemato",
+  "department_site": "Pathology",
+  "keywords": [],
+  "summary": "I am an Associate Professor in the Department of Pathology at NYU School of Medicine and Co-Leader of the Cancer Cell Biology Program at the Perlmutter Cancer Center. Our research program is focused on identifying metabolic alterations in cancer and the tumor microenvironment, focusing on triple-negative breast cancer and alterations in the metabolism of transformed and immune cells. My long-term goal is to understand the metabolic pathways that are altered in tumors, the processes that these altered pathways support, and the microenvironment, genetic, and epigenetic contexts in which these pathways are important. I have substantial experience and training in cancer genetics, tumor metabolism, and nutrient sensing pathways, and have authored manuscripts describing the contributions of mitochondrial metabolism, nucleotide synthesis, and iron-sulfur cluster biosynthesis to cancer and cell biology. A key to the success of this work has been generating new biological tools, enabling high-throughput screening in tumor-relevant environments and upon nutrient limitation. These projects provided me with experience mentoring graduate students and post-doctoral fellows who appear as co-authors on these publications, as well as collaborating with academic, industry, and clinical scientists. This work highlights our ability to establish a productive research program, producing impactful findings of importance to the tumor metabolism fields, and encouraging a collaborative and rigorous training program for the three graduate students and four post-doctoral fellows that comprise our group. I am pleased to support this R01 application to provide knowledge and experimental expertise on triple-negative breast cancer and metabolic alterations in normal and transformed cells."
+}

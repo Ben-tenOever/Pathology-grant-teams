@@ -1,0 +1,23 @@
+{
+  "source": "intake_form",
+  "faculty_id": "intake_jane_skok",
+  "name": "Jane Skok",
+  "name_canonical": "Jane Skok",
+  "title": "Sandra and Edward Meyer Professor of Radiation Oncology",
+  "affiliations": [
+    "Pathology"
+  ],
+  "affiliations_raw": "Pathology",
+  "affiliations_unmapped": [],
+  "lab_synopsis": "To uncover how CTCF/CTCFL, cohesin, transcription factors, and nucleosomes generate tunable insulation and state-specific 3D genome folding. We build the tools to see it\u2014from fixed-cell 3D FISH and dual-colour live CRISPR imaging to EpiMethylTag, MethNet, and cluster-based single-molecule nano-NOMe phasing\u2014and apply them to show how drivers like NSD2 reprogram insulated domains and how DNA damage imprints lasting chromatin memory. Our earlier lymphocyte work established the playbook for locus contraction/decontraction, enhancer-guided proximity, recombination centers, and genome-stability checkpoints that still anchor our current cancer and immunity studies. Over two decades, the Skok lab has defined how 3D genome architecture, insulation by CTCF/cofactors, and enhancer logic orchestrate antigen-receptor recombination and lineage decisions, built experimental and computational tools to see these processes in living cells and single molecules, and translated these principles to cancer, neuro-oncology, immunology, and epigenetic disease, revealing domain-scale mechanisms and actionable vulnerabilities",
+  "common_experiments_raw": "Nano_NOMe-seq, RNA-seq, ChIP-seq, Hi-C, scMultiome",
+  "research_keywords": [],
+  "experimental_capabilities": [],
+  "model_systems": [],
+  "focus_groups": [],
+  "publications": [],
+  "id": "intake_jane_skok",
+  "department_site": "Pathology",
+  "keywords": [],
+  "summary": "To uncover how CTCF/CTCFL, cohesin, transcription factors, and nucleosomes generate tunable insulation and state-specific 3D genome folding. We build the tools to see it\u2014from fixed-cell 3D FISH and dual-colour live CRISPR imaging to EpiMethylTag, MethNet, and cluster-based single-molecule nano-NOMe phasing\u2014and apply them to show how drivers like NSD2 reprogram insulated domains and how DNA damage imprints lasting chromatin memory. Our earlier lymphocyte work established the playbook for locus contraction/decontraction, enhancer-guided proximity, recombination centers, and genome-stability checkpoints that still anchor our current cancer and immunity studies. Over two decades, the Skok lab has defined how 3D genome architecture, insulation by CTCF/cofactors, and enhancer logic orchestrate antigen-receptor recombination and lineage decisions, built experimental and computational tools to see these processes in living cells and single molecules, and translated these principles to cancer, neuro-oncology, immunology, and epigenetic disease, revealing domain-scale mechanisms and actionable vulnerabilities"
+}

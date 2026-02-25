@@ -1,0 +1,23 @@
+{
+  "source": "intake_form",
+  "faculty_id": "intake_daniel_meruelo",
+  "name": "Daniel Meruelo",
+  "name_canonical": "Daniel Meruelo",
+  "title": "Professor of Pathology",
+  "affiliations": [
+    "Pathology"
+  ],
+  "affiliations_raw": "Pathology",
+  "affiliations_unmapped": [],
+  "lab_synopsis": "Our lab focuses on creating a novel cancer treatment platform using the oncolytic Sindbis viral vector (SV) engineered from Sindbis Virus. In the wild, Sindbis Virus is transmitted by mosquitoes among birds and mammals, which serve as amplifying hosts. Sindbis Virus is also transmitted to dead-end hosts such as humans where it sporadically causes mild cold-like symptoms although in most cases remains asymptomatic.  Our lab has developed SV that when systemically injected, targets and kills primary tumors as well as metastases in several in vivo mouse tumor models such as ovarian, colon, pancreatic and prostate cancer.  The use of SV for cancer treatment brings several advantages: (1) Sindbis has a positive sense single-stranded RNA, rendering the vector safer than DNA-based oncolytic viruses, as the vector cannot incorporate its genome into the host\u2019s DNA. (2) Due to the fact that Sindbis is a blood-borne pathogen, it can be administrated systemically in the bloodstream from where it can spread throughout the body.  Today our research focuses in improving the efficacy of Sindbis vectors and studying its capability and mechanism of activating the immune response against different cancers.",
+  "common_experiments_raw": "Establishing new in vivo cancer models that are clinically relevant.\nCreating SV vectors that express tumor associated antigens, cytokines, agonistic antibodies against co-stimulatory molecules and/or immune checkpoint blockade.\nScreening for therapeutic efficacy of different SV vectors in multiple tumor models.\nElucidating the impact of SV vector treatment on the tumor microenvironment and the immune system.\nWe utilize state of the art approaches to achieve these goals such as in vivo Imaging, Flow cytometry, CITE-Seq and 2-photon microscopy. Our in vivo data looks very promising and SV treatment in combination with monoclonal therapy will be tested in its first clinical trial end of 2020.",
+  "research_keywords": [],
+  "experimental_capabilities": [],
+  "model_systems": [],
+  "focus_groups": [],
+  "publications": [],
+  "id": "intake_daniel_meruelo",
+  "department_site": "Pathology",
+  "keywords": [],
+  "summary": "Our lab focuses on creating a novel cancer treatment platform using the oncolytic Sindbis viral vector (SV) engineered from Sindbis Virus. In the wild, Sindbis Virus is transmitted by mosquitoes among birds and mammals, which serve as amplifying hosts. Sindbis Virus is also transmitted to dead-end hosts such as humans where it sporadically causes mild cold-like symptoms although in most cases remains asymptomatic.  Our lab has developed SV that when systemically injected, targets and kills primary tumors as well as metastases in several in vivo mouse tumor models such as ovarian, colon, pancreatic and prostate cancer.  The use of SV for cancer treatment brings several advantages: (1) Sindbis has a positive sense single-stranded RNA, rendering the vector safer than DNA-based oncolytic viruses, as the vector cannot incorporate its genome into the host\u2019s DNA. (2) Due to the fact that Sindbis is a blood-borne pathogen, it can be administrated systemically in the bloodstream from where it can spread throughout the body.  Today our research focuses in improving the efficacy of Sindbis vectors and studying its capability and mechanism of activating the immune response against different cancers."
+}
