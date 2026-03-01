@@ -5,7 +5,13 @@
     "title": "Professor of Pathology",
     "summary": "Our lab focuses on creating a novel cancer treatment platform using the oncolytic Sindbis viral vector (SV) engineered from Sindbis Virus.",
     "keywords": [],
-    "search_text": "Daniel Meruelo Professor of Pathology Our lab focuses on creating a novel cancer treatment platform using the oncolytic Sindbis viral vector (SV) engineered from Sindbis Virus."
+    "search_text": "Daniel Meruelo Professor of Pathology Our lab focuses on creating a novel cancer treatment platform using the oncolytic Sindbis viral vector (SV) engineered from Sindbis Virus.",
+    "lab_synopsis": "Our lab focuses on creating a novel cancer treatment platform using the oncolytic Sindbis viral vector (SV) engineered from Sindbis Virus. In the wild, Sindbis Virus is transmitted by mosquitoes among birds and mammals, which serve as amplifying hosts. Sindbis Virus is also transmitted to dead-end hosts such as humans where it sporadically causes mild cold-like symptoms although in most cases remains asymptomatic.  Our lab has developed SV that when systemically injected, targets and kills primary tumors as well as metastases in several in vivo mouse tumor models such as ovarian, colon, pancreatic and prostate cancer.  The use of SV for cancer treatment brings several advantages: (1) Sindbis has a positive sense single-stranded RNA, rendering the vector safer than DNA-based oncolytic viruses, as the vector cannot incorporate its genome into the host’s DNA. (2) Due to the fact that Sindbis is a blood-borne pathogen, it can be administrated systemically in the bloodstream from where it can spread throughout the body.  Today our research focuses in improving the efficacy of Sindbis vectors and studying its capability and mechanism of activating the immune response against different cancers.",
+    "summary_short": "Our lab focuses on creating a novel cancer treatment platform using the oncolytic Sindbis viral vector (SV) engineered from Sindbis Virus.",
+    "research_keywords": [],
+    "affiliations": [
+      "Pathology"
+    ]
   },
   {
     "id": "intake_jane_skok",
@@ -13,7 +19,13 @@
     "title": "Sandra and Edward Meyer Professor of Radiation Oncology",
     "summary": "To uncover how CTCF/CTCFL, cohesin, transcription factors, and nucleosomes generate tunable insulation and state-specific 3D genome folding.",
     "keywords": [],
-    "search_text": "Jane Skok Sandra and Edward Meyer Professor of Radiation Oncology To uncover how CTCF/CTCFL, cohesin, transcription factors, and nucleosomes generate tunable insulation and state-specific 3D genome folding."
+    "search_text": "Jane Skok Sandra and Edward Meyer Professor of Radiation Oncology To uncover how CTCF/CTCFL, cohesin, transcription factors, and nucleosomes generate tunable insulation and state-specific 3D genome folding.",
+    "lab_synopsis": "To uncover how CTCF/CTCFL, cohesin, transcription factors, and nucleosomes generate tunable insulation and state-specific 3D genome folding. We build the tools to see it—from fixed-cell 3D FISH and dual-colour live CRISPR imaging to EpiMethylTag, MethNet, and cluster-based single-molecule nano-NOMe phasing—and apply them to show how drivers like NSD2 reprogram insulated domains and how DNA damage imprints lasting chromatin memory. Our earlier lymphocyte work established the playbook for locus contraction/decontraction, enhancer-guided proximity, recombination centers, and genome-stability checkpoints that still anchor our current cancer and immunity studies. Over two decades, the Skok lab has defined how 3D genome architecture, insulation by CTCF/cofactors, and enhancer logic orchestrate antigen-receptor recombination and lineage decisions, built experimental and computational tools to see these processes in living cells and single molecules, and translated these principles to cancer, neuro-oncology, immunology, and epigenetic disease, revealing domain-scale mechanisms and actionable vulnerabilities",
+    "summary_short": "To uncover how CTCF/CTCFL, cohesin, transcription factors, and nucleosomes generate tunable insulation and state-specific 3D genome folding.",
+    "research_keywords": [],
+    "affiliations": [
+      "Pathology"
+    ]
   },
   {
     "id": "intake_ran_brosh",
@@ -39,7 +51,32 @@
       "mammalian genome writing",
       "synthetic regulatory genomics"
     ],
-    "search_text": "Ran Brosh Research Assistant Professor, Associate Director I have two roles: [1] as Faculty at ISG/Pathology I am leading the Dark Matter Project, a collaborative effort to use synthetic biology and genome writing to study the noncoding genome and its roles in health and disease. ACE2 humanized mouse models Big IN platform CRISPR activation rescue DHS element function mapping SARS CoV 2 susceptibility models SVA retrotransposon biology Sox2 locus control region TAF1 humanization X linked dystonia parkinsonism capture sequencing validation chromatin and transcriptome profiling landing pad based genome rewriting large DNA payload integration locus scale genome engineering mSwAP In iterative rewriting mammalian genome writing synthetic regulatory genomics"
+    "search_text": "Ran Brosh Research Assistant Professor, Associate Director I have two roles: [1] as Faculty at ISG/Pathology I am leading the Dark Matter Project, a collaborative effort to use synthetic biology and genome writing to study the noncoding genome and its roles in health and disease. ACE2 humanized mouse models Big IN platform CRISPR activation rescue DHS element function mapping SARS CoV 2 susceptibility models SVA retrotransposon biology Sox2 locus control region TAF1 humanization X linked dystonia parkinsonism capture sequencing validation chromatin and transcriptome profiling landing pad based genome rewriting large DNA payload integration locus scale genome engineering mSwAP In iterative rewriting mammalian genome writing synthetic regulatory genomics",
+    "lab_synopsis": "I have two roles: [1] as Faculty at ISG/Pathology I am leading the Dark Matter Project, a collaborative effort to use synthetic biology and genome writing to study the noncoding genome and its roles in health and disease. We develop method to build and deliver large DNA constructs to mammalian cells (primarily mouse embryonic stem cells) and apply them to generate mouse models for human diseases or in vitro cell models to study basic aspects of transcriptional regulation. [2] I'm the Associate Director of the Rodent Genetic Engineering Laboratory (RGEL), a core facility that generate transgenic mice by a variety of advanced methods.\n\nBuilds and applies genome writing platforms to rewrite large mammalian loci and model how regulatory DNA and transposable element insertions shape gene expression and disease phenotypes. Develops landing pad and large payload integration approaches such as Big IN and mSwAP In for iterative locus replacement in stem cells, enabling synthetic regulatory genomics studies including Sox2 locus control region dissection, ACE2 humanization for viral susceptibility models, and TAF1 humanization to test consequences of X linked dystonia parkinsonism associated SVA insertions. Supports end to end engineering workflows spanning design, assembly, validation, mouse model generation, and colony services.",
+    "summary_short": "I have two roles: [1] as Faculty at ISG/Pathology I am leading the Dark Matter Project, a collaborative effort to use synthetic biology and genome writing to study the noncoding genome and its roles in health and disease.",
+    "research_keywords": [
+      "ACE2 humanized mouse models",
+      "Big IN platform",
+      "CRISPR activation rescue",
+      "DHS element function mapping",
+      "SARS CoV 2 susceptibility models",
+      "SVA retrotransposon biology",
+      "Sox2 locus control region",
+      "TAF1 humanization",
+      "X linked dystonia parkinsonism",
+      "capture sequencing validation",
+      "chromatin and transcriptome profiling",
+      "landing pad based genome rewriting",
+      "large DNA payload integration",
+      "locus scale genome engineering",
+      "mSwAP In iterative rewriting",
+      "mammalian genome writing",
+      "synthetic regulatory genomics"
+    ],
+    "affiliations": [
+      "Institute for Systems Genetics (ISG)",
+      "Pathology"
+    ]
   },
   {
     "id": "intake_richard_possemato",
@@ -47,7 +84,13 @@
     "title": "Associate Professor",
     "summary": "I am an Associate Professor in the Department of Pathology at NYU School of Medicine and Co-Leader of the Cancer Cell Biology Program at the Perlmutter Cancer Center.",
     "keywords": [],
-    "search_text": "Richard Possemato Associate Professor I am an Associate Professor in the Department of Pathology at NYU School of Medicine and Co-Leader of the Cancer Cell Biology Program at the Perlmutter Cancer Center."
+    "search_text": "Richard Possemato Associate Professor I am an Associate Professor in the Department of Pathology at NYU School of Medicine and Co-Leader of the Cancer Cell Biology Program at the Perlmutter Cancer Center.",
+    "lab_synopsis": "I am an Associate Professor in the Department of Pathology at NYU School of Medicine and Co-Leader of the Cancer Cell Biology Program at the Perlmutter Cancer Center. Our research program is focused on identifying metabolic alterations in cancer and the tumor microenvironment, focusing on triple-negative breast cancer and alterations in the metabolism of transformed and immune cells. My long-term goal is to understand the metabolic pathways that are altered in tumors, the processes that these altered pathways support, and the microenvironment, genetic, and epigenetic contexts in which these pathways are important. I have substantial experience and training in cancer genetics, tumor metabolism, and nutrient sensing pathways, and have authored manuscripts describing the contributions of mitochondrial metabolism, nucleotide synthesis, and iron-sulfur cluster biosynthesis to cancer and cell biology. A key to the success of this work has been generating new biological tools, enabling high-throughput screening in tumor-relevant environments and upon nutrient limitation. These projects provided me with experience mentoring graduate students and post-doctoral fellows who appear as co-authors on these publications, as well as collaborating with academic, industry, and clinical scientists. This work highlights our ability to establish a productive research program, producing impactful findings of importance to the tumor metabolism fields, and encouraging a collaborative and rigorous training program for the three graduate students and four post-doctoral fellows that comprise our group. I am pleased to support this R01 application to provide knowledge and experimental expertise on triple-negative breast cancer and metabolic alterations in normal and transformed cells.",
+    "summary_short": "I am an Associate Professor in the Department of Pathology at NYU School of Medicine and Co-Leader of the Cancer Cell Biology Program at the Perlmutter Cancer Center.",
+    "research_keywords": [],
+    "affiliations": [
+      "Pathology"
+    ]
   },
   {
     "id": "intake_stefan_feske",
@@ -55,7 +98,13 @@
     "title": "Professor",
     "summary": "Dr.",
     "keywords": [],
-    "search_text": "Stefan Feske Professor Dr."
+    "search_text": "Stefan Feske Professor Dr.",
+    "lab_synopsis": "Dr. Feske's research interests focus on investigating the role of ion channels and transporters, particularly calcium release-activated calcium (CRAC) channels, in the signaling pathways of immune cell function. His work includes studying how ion channel function influences immune cell responses to infectious diseases, exploring the contribution of calcium signals and ion channels to autoimmune diseases and potential therapeutic approaches, characterizing genetic and functional defects in ion channels that lead to primary immunodeficiency and immune system deficiencies, and understanding how ion channels contribute to immune responses against tumors and the mechanisms driving inflammatory processes. He has demonstrated that CRAC channels are essential for immunity to infection and antitumor immunity, while also showing they mediate autoimmunity in animal models. Beyond CRAC channels, his laboratory investigates which ion channels control immune responses in health and disease with the ultimate goal to identify drug targets for immunotherapy. The ICTI program he directs includes the Ion Laboratory (IonLab), a core facility providing electrophysiology support services to the research community at NYU Langone.",
+    "summary_short": "Dr.",
+    "research_keywords": [],
+    "affiliations": [
+      "Pathology"
+    ]
   },
   {
     "id": "intake_susan_smith",
@@ -63,6 +112,13 @@
     "title": "Professor",
     "summary": "My laboratory studies mechanisms of chromosome cohesion and segregation in human normal cells, stem cells, aging cells, and cancer cells.",
     "keywords": [],
-    "search_text": "Susan Smith Professor My laboratory studies mechanisms of chromosome cohesion and segregation in human normal cells, stem cells, aging cells, and cancer cells."
+    "search_text": "Susan Smith Professor My laboratory studies mechanisms of chromosome cohesion and segregation in human normal cells, stem cells, aging cells, and cancer cells.",
+    "lab_synopsis": "My laboratory studies mechanisms of chromosome cohesion and segregation in human normal cells, stem cells, aging cells, and cancer cells. We focus on how sister chromatid cohesion is established at repetitive sequences including telomeres, ribosomal DNA arrays, and centromeres in S phase during DNA replication and how these sequences are resolved and accurately distributed to daughter cells in mitosis. We study the role of the polyADP-ribosyltransferases tankyrase 1 and 2 in cohesion and ubiquitin-mediated protein degradation. Our recent studies on cohesion showed that persistent telomere cohesion is due to RNA-DNA hybrid (R-loop) structures and further that their regulation by tankyrase impacts replicative senescence and cancer cell growth. For protein degradation, we identified multiple E3 ligases that ubiquitylate and control tankyrase function. We discovered a novel post-translational hybrid mark (ubiquitin on ADP-ribose on serine) and cognate hybrid readers that bind the hybrid mark to control ADP-ribosylation and stability of tankyrase and its targets.",
+    "summary_short": "My laboratory studies mechanisms of chromosome cohesion and segregation in human normal cells, stem cells, aging cells, and cancer cells.",
+    "research_keywords": [],
+    "affiliations": [
+      "Cell Biology",
+      "Pathology"
+    ]
   }
 ]

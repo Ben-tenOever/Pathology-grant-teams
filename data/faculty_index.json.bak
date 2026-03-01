@@ -1,0 +1,68 @@
+[
+  {
+    "id": "intake_daniel_meruelo",
+    "name": "Daniel Meruelo",
+    "title": "Professor of Pathology",
+    "summary": "Our lab focuses on creating a novel cancer treatment platform using the oncolytic Sindbis viral vector (SV) engineered from Sindbis Virus.",
+    "keywords": [],
+    "search_text": "Daniel Meruelo Professor of Pathology Our lab focuses on creating a novel cancer treatment platform using the oncolytic Sindbis viral vector (SV) engineered from Sindbis Virus."
+  },
+  {
+    "id": "intake_jane_skok",
+    "name": "Jane Skok",
+    "title": "Sandra and Edward Meyer Professor of Radiation Oncology",
+    "summary": "To uncover how CTCF/CTCFL, cohesin, transcription factors, and nucleosomes generate tunable insulation and state-specific 3D genome folding.",
+    "keywords": [],
+    "search_text": "Jane Skok Sandra and Edward Meyer Professor of Radiation Oncology To uncover how CTCF/CTCFL, cohesin, transcription factors, and nucleosomes generate tunable insulation and state-specific 3D genome folding."
+  },
+  {
+    "id": "intake_ran_brosh",
+    "name": "Ran Brosh",
+    "title": "Research Assistant Professor, Associate Director",
+    "summary": "I have two roles: [1] as Faculty at ISG/Pathology I am leading the Dark Matter Project, a collaborative effort to use synthetic biology and genome writing to study the noncoding genome and its roles in health and disease.",
+    "keywords": [
+      "ACE2 humanized mouse models",
+      "Big IN platform",
+      "CRISPR activation rescue",
+      "DHS element function mapping",
+      "SARS CoV 2 susceptibility models",
+      "SVA retrotransposon biology",
+      "Sox2 locus control region",
+      "TAF1 humanization",
+      "X linked dystonia parkinsonism",
+      "capture sequencing validation",
+      "chromatin and transcriptome profiling",
+      "landing pad based genome rewriting",
+      "large DNA payload integration",
+      "locus scale genome engineering",
+      "mSwAP In iterative rewriting",
+      "mammalian genome writing",
+      "synthetic regulatory genomics"
+    ],
+    "search_text": "Ran Brosh Research Assistant Professor, Associate Director I have two roles: [1] as Faculty at ISG/Pathology I am leading the Dark Matter Project, a collaborative effort to use synthetic biology and genome writing to study the noncoding genome and its roles in health and disease. ACE2 humanized mouse models Big IN platform CRISPR activation rescue DHS element function mapping SARS CoV 2 susceptibility models SVA retrotransposon biology Sox2 locus control region TAF1 humanization X linked dystonia parkinsonism capture sequencing validation chromatin and transcriptome profiling landing pad based genome rewriting large DNA payload integration locus scale genome engineering mSwAP In iterative rewriting mammalian genome writing synthetic regulatory genomics"
+  },
+  {
+    "id": "intake_richard_possemato",
+    "name": "Richard Possemato",
+    "title": "Associate Professor",
+    "summary": "I am an Associate Professor in the Department of Pathology at NYU School of Medicine and Co-Leader of the Cancer Cell Biology Program at the Perlmutter Cancer Center.",
+    "keywords": [],
+    "search_text": "Richard Possemato Associate Professor I am an Associate Professor in the Department of Pathology at NYU School of Medicine and Co-Leader of the Cancer Cell Biology Program at the Perlmutter Cancer Center."
+  },
+  {
+    "id": "intake_stefan_feske",
+    "name": "Stefan Feske",
+    "title": "Professor",
+    "summary": "Dr.",
+    "keywords": [],
+    "search_text": "Stefan Feske Professor Dr."
+  },
+  {
+    "id": "intake_susan_smith",
+    "name": "Susan Smith",
+    "title": "Professor",
+    "summary": "My laboratory studies mechanisms of chromosome cohesion and segregation in human normal cells, stem cells, aging cells, and cancer cells.",
+    "keywords": [],
+    "search_text": "Susan Smith Professor My laboratory studies mechanisms of chromosome cohesion and segregation in human normal cells, stem cells, aging cells, and cancer cells."
+  }
+]
