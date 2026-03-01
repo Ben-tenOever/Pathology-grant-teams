@@ -1,0 +1,29 @@
+{
+  "label": "Pathology",
+  "overview": "Pathology brings together 6 investigators working across ACE2 humanized mouse models, Big IN platform, CRISPR activation rescue, DHS element function mapping, SARS CoV 2 susceptibility models. Collectively, the group spans strengths in mouse, crispr, sequencing, human, stem. This site provides within group pair and multi investigator team suggestions derived only from the group roster to keep matches in scope.",
+  "stats": {
+    "faculty_count": 6,
+    "pairs_count": 600,
+    "teams3plus_count": 400,
+    "opportunities_covered": 200
+  },
+  "top_themes": [
+    "ACE2 humanized mouse models",
+    "Big IN platform",
+    "CRISPR activation rescue",
+    "DHS element function mapping",
+    "SARS CoV 2 susceptibility models",
+    "SVA retrotransposon biology",
+    "Sox2 locus control region",
+    "TAF1 humanization",
+    "X linked dystonia parkinsonism",
+    "capture sequencing validation"
+  ],
+  "top_approaches": [
+    "mouse",
+    "crispr",
+    "sequencing",
+    "human",
+    "stem"
+  ]
+}
