@@ -12,7 +12,39 @@
     "affiliations": [
       "Pathology"
     ],
-    "common_experiments_raw": "Establishing new in vivo cancer models that are clinically relevant.\nCreating SV vectors that express tumor associated antigens, cytokines, agonistic antibodies against co-stimulatory molecules and/or immune checkpoint blockade.\nScreening for therapeutic efficacy of different SV vectors in multiple tumor models.\nElucidating the impact of SV vector treatment on the tumor microenvironment and the immune system.\nWe utilize state of the art approaches to achieve these goals such as in vivo Imaging, Flow cytometry, CITE-Seq and 2-photon microscopy. Our in vivo data looks very promising and SV treatment in combination with monoclonal therapy will be tested in its first clinical trial end of 2020."
+    "common_experiments_raw": "Establishing new in vivo cancer models that are clinically relevant.\nCreating SV vectors that express tumor associated antigens, cytokines, agonistic antibodies against co-stimulatory molecules and/or immune checkpoint blockade.\nScreening for therapeutic efficacy of different SV vectors in multiple tumor models.\nElucidating the impact of SV vector treatment on the tumor microenvironment and the immune system.\nWe utilize state of the art approaches to achieve these goals such as in vivo Imaging, Flow cytometry, CITE-Seq and 2-photon microscopy. Our in vivo data looks very promising and SV treatment in combination with monoclonal therapy will be tested in its first clinical trial end of 2020.",
+    "publications": [
+      {
+        "file": "/Users/tenoeb01/Desktop/Galaxy Files/pubs_inbox/Pathology/Meruelo, Daniel/Molecular and metabolic pathways mediating cu_anonymous.pdf",
+        "title": null,
+        "year": null,
+        "doi": null
+      },
+      {
+        "file": "/Users/tenoeb01/Desktop/Galaxy Files/pubs_inbox/Pathology/Meruelo, Daniel/Potent and Targeted Sindbis Virus Platform fo_anonymous.pdf",
+        "title": null,
+        "year": null,
+        "doi": null
+      },
+      {
+        "file": "/Users/tenoeb01/Desktop/Galaxy Files/pubs_inbox/Pathology/Meruelo, Daniel/Sindbis Virus Platform Provides an Oncolytic-_anonymous.pdf",
+        "title": null,
+        "year": null,
+        "doi": null
+      },
+      {
+        "file": "/Users/tenoeb01/Desktop/Galaxy Files/pubs_inbox/Pathology/Meruelo, Daniel/Sindbis Virus Vaccine Platform - A Promising_anonymous.pdf",
+        "title": null,
+        "year": null,
+        "doi": null
+      },
+      {
+        "file": "/Users/tenoeb01/Desktop/Galaxy Files/pubs_inbox/Pathology/Meruelo, Daniel/Sindbis Virus with Anti-OX40 Overcomes the Im_anonymous.pdf",
+        "title": null,
+        "year": null,
+        "doi": null
+      }
+    ]
   },
   {
     "id": "intake_jane_skok",
@@ -27,7 +59,39 @@
     "affiliations": [
       "Pathology"
     ],
-    "common_experiments_raw": "Nano_NOMe-seq, RNA-seq, ChIP-seq, Hi-C, scMultiome"
+    "common_experiments_raw": "Nano_NOMe-seq, RNA-seq, ChIP-seq, Hi-C, scMultiome",
+    "publications": [
+      {
+        "file": "/Users/tenoeb01/Desktop/Galaxy Files/pubs_inbox/Pathology/Skok, Jane/Binding domain mutations provide insight into CTCF’s relationship with chromatin and its contribution to gene regulation.pdf",
+        "title": null,
+        "year": null,
+        "doi": null
+      },
+      {
+        "file": "/Users/tenoeb01/Desktop/Galaxy Files/pubs_inbox/Pathology/Skok, Jane/Defining the relative and combined contributi_anonymous.pdf",
+        "title": null,
+        "year": null,
+        "doi": null
+      },
+      {
+        "file": "/Users/tenoeb01/Desktop/Galaxy Files/pubs_inbox/Pathology/Skok, Jane/MethNet- a robust approach to identify regulatory hubs and their distal targets from cancer data.pdf",
+        "title": null,
+        "year": null,
+        "doi": null
+      },
+      {
+        "file": "/Users/tenoeb01/Desktop/Galaxy Files/pubs_inbox/Pathology/Skok, Jane/NSD2 overexpression drives clustered chromati_anonymous.pdf",
+        "title": null,
+        "year": null,
+        "doi": null
+      },
+      {
+        "file": "/Users/tenoeb01/Desktop/Galaxy Files/pubs_inbox/Pathology/Skok, Jane/Phasing chromatin heterogeneity- single-molecule footprinting links 1 CTCF topology to 2 transcriptional output.pdf",
+        "title": null,
+        "year": null,
+        "doi": null
+      }
+    ]
   },
   {
     "id": "intake_ran_brosh",
@@ -121,6 +185,24 @@
         "title": null,
         "year": null,
         "doi": null
+      },
+      {
+        "file": "/Users/tenoeb01/Desktop/Galaxy Files/pubs_inbox/ISG/Brosh, Ran/2025.10.07.680816.full_anonymous.pdf",
+        "title": null,
+        "year": null,
+        "doi": null
+      },
+      {
+        "file": "/Users/tenoeb01/Desktop/Galaxy Files/pubs_inbox/ISG/Brosh, Ran/Zhang-2023-Mouse genome rewriting and tailori_anonymous.pdf",
+        "title": null,
+        "year": null,
+        "doi": null
+      },
+      {
+        "file": "/Users/tenoeb01/Desktop/Galaxy Files/pubs_inbox/ISG/Brosh, Ran/Zhao-2023-CREEPY_ CRISPR-mediated editing of_anonymous.pdf",
+        "title": null,
+        "year": null,
+        "doi": null
       }
     ],
     "common_experiments_raw": "*Mammalian genome writing\n*Big-IN (genome writing)\n*mSwAP-In (genome writing)\n*CREEPY (CRSIPR editing of episomes in yeast)\nDNA assembly\nSynthetic biology\nCRISPR/Cas9\nPCR, qRT-PCR\nRNA-seq\nIllumina sequencing\nNanopore sequencing\nBlastocyst injection\nPronuclear microinjection\nIn vitro fertilization\nRederivation\nSperm and embryo cryopreservation"
@@ -138,7 +220,39 @@
     "affiliations": [
       "Pathology"
     ],
-    "common_experiments_raw": "Mammalian cell culture, immunoblotting, CRISPR screening, metabolomics, metabolic tracing, Seahorse, immunopurification, microscopy, RNAi, CRISPR gene knockout, mutagenesis screening, ferroptosis assays, cell death/viability assays, EC50, iron sensing analysis, iron-sulfur cluster function, gene expression analysis, xenograft tumor formation, cell proliferation assays."
+    "common_experiments_raw": "Mammalian cell culture, immunoblotting, CRISPR screening, metabolomics, metabolic tracing, Seahorse, immunopurification, microscopy, RNAi, CRISPR gene knockout, mutagenesis screening, ferroptosis assays, cell death/viability assays, EC50, iron sensing analysis, iron-sulfur cluster function, gene expression analysis, xenograft tumor formation, cell proliferation assays.",
+    "publications": [
+      {
+        "file": "/Users/tenoeb01/Desktop/Galaxy Files/pubs_inbox/Pathology/Possemato, Richard/2017 Alvarez Nature_anonymous.pdf",
+        "title": null,
+        "year": null,
+        "doi": null
+      },
+      {
+        "file": "/Users/tenoeb01/Desktop/Galaxy Files/pubs_inbox/Pathology/Possemato, Richard/2020 Sviderskiy MolCell_anonymous.pdf",
+        "title": null,
+        "year": null,
+        "doi": null
+      },
+      {
+        "file": "/Users/tenoeb01/Desktop/Galaxy Files/pubs_inbox/Pathology/Possemato, Richard/2021 Terzi SciAdvances_anonymous.pdf",
+        "title": null,
+        "year": null,
+        "doi": null
+      },
+      {
+        "file": "/Users/tenoeb01/Desktop/Galaxy Files/pubs_inbox/Pathology/Possemato, Richard/2023 Shin et al Nat Med_anonymous.pdf",
+        "title": null,
+        "year": null,
+        "doi": null
+      },
+      {
+        "file": "/Users/tenoeb01/Desktop/Galaxy Files/pubs_inbox/Pathology/Possemato, Richard/2024_Nam_Nature_Metabolism_anonymous.pdf",
+        "title": null,
+        "year": null,
+        "doi": null
+      }
+    ]
   },
   {
     "id": "intake_stefan_feske",
@@ -153,7 +267,39 @@
     "affiliations": [
       "Pathology"
     ],
-    "common_experiments_raw": "Molecular biology; protein biochemistry; genomic and bioinformatic analyses (RNA-seq, scRNA-seq, ATAC-seq); flow cytometry; in vivo models of immunity to infection, antitumor immunity, autoimmunity, and asthma; ion channel function (electrophysiology)"
+    "common_experiments_raw": "Molecular biology; protein biochemistry; genomic and bioinformatic analyses (RNA-seq, scRNA-seq, ATAC-seq); flow cytometry; in vivo models of immunity to infection, antitumor immunity, autoimmunity, and asthma; ion channel function (electrophysiology)",
+    "publications": [
+      {
+        "file": "/Users/tenoeb01/Desktop/Galaxy Files/pubs_inbox/Pathology/Feske, Stefan/Concepcion2022-Nature Imm copy_anonymous.pdf",
+        "title": null,
+        "year": null,
+        "doi": null
+      },
+      {
+        "file": "/Users/tenoeb01/Desktop/Galaxy Files/pubs_inbox/Pathology/Feske, Stefan/Li Zhong2025-STIM1_Th1 copy_anonymous.pdf",
+        "title": null,
+        "year": null,
+        "doi": null
+      },
+      {
+        "file": "/Users/tenoeb01/Desktop/Galaxy Files/pubs_inbox/Pathology/Feske, Stefan/LiWang2024-STM copy_anonymous.pdf",
+        "title": null,
+        "year": null,
+        "doi": null
+      },
+      {
+        "file": "/Users/tenoeb01/Desktop/Galaxy Files/pubs_inbox/Pathology/Feske, Stefan/Wang2022-ORAI1_asthma copy_anonymous.pdf",
+        "title": null,
+        "year": null,
+        "doi": null
+      },
+      {
+        "file": "/Users/tenoeb01/Desktop/Galaxy Files/pubs_inbox/Pathology/Feske, Stefan/sciimmunol.adq8860 copy_anonymous.pdf",
+        "title": null,
+        "year": null,
+        "doi": null
+      }
+    ]
   },
   {
     "id": "intake_susan_smith",
@@ -169,6 +315,38 @@
       "Cell Biology",
       "Pathology"
     ],
-    "common_experiments_raw": "Experimental techniques: Generation of mutant and knockout cell lines using CRISPR/Cas9; Protein extraction, immunoprecipitation, and immunoblot analysis; RNAi using siRNAs and lentiviral shRNAs; Ubiquitylation and ADP-ribosylation assays in cells and in vitro; Chromosome-specific FISH; Metaphase spread analysis; Indirect immunofluorescence analysis; RNA isolation and Northern blot analysis; Telomere restriction fragment analysis; Chromatin Immunoprecipitation (ChIP); DNA–RNA immunoprecipitation (DRIP); and RNA immunoprecipitation (RIP)."
+    "common_experiments_raw": "Experimental techniques: Generation of mutant and knockout cell lines using CRISPR/Cas9; Protein extraction, immunoprecipitation, and immunoblot analysis; RNAi using siRNAs and lentiviral shRNAs; Ubiquitylation and ADP-ribosylation assays in cells and in vitro; Chromosome-specific FISH; Metaphase spread analysis; Indirect immunofluorescence analysis; RNA isolation and Northern blot analysis; Telomere restriction fragment analysis; Chromatin Immunoprecipitation (ChIP); DNA–RNA immunoprecipitation (DRIP); and RNA immunoprecipitation (RIP).",
+    "publications": [
+      {
+        "file": "/Users/tenoeb01/Desktop/Galaxy Files/pubs_inbox/Cell Biology/Smith, Susan/AzarmNatComm2020_anonymous.pdf",
+        "title": null,
+        "year": null,
+        "doi": null
+      },
+      {
+        "file": "/Users/tenoeb01/Desktop/Galaxy Files/pubs_inbox/Cell Biology/Smith, Susan/DaniloskiG&D2019_anonymous.pdf",
+        "title": null,
+        "year": null,
+        "doi": null
+      },
+      {
+        "file": "/Users/tenoeb01/Desktop/Galaxy Files/pubs_inbox/Cell Biology/Smith, Susan/PerrardNatComm2023_anonymous.pdf",
+        "title": null,
+        "year": null,
+        "doi": null
+      },
+      {
+        "file": "/Users/tenoeb01/Desktop/Galaxy Files/pubs_inbox/Cell Biology/Smith, Susan/PerrardSciAdv2025_anonymous.pdf",
+        "title": null,
+        "year": null,
+        "doi": null
+      },
+      {
+        "file": "/Users/tenoeb01/Desktop/Galaxy Files/pubs_inbox/Cell Biology/Smith, Susan/SzeCellReports2023_anonymous.pdf",
+        "title": null,
+        "year": null,
+        "doi": null
+      }
+    ]
   }
 ]
